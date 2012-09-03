@@ -384,5 +384,16 @@
      "kuschert98"
      "koopmann97"
      "proudfoot01"
-     "amara99")))
+     "amara99"
+     "spillmann98"
+     "stringer02"
+     "gallagher01"
+     "jemth02"
+     "kreuger05"
+     "jastrebova06"
+     "li03"
+     "bullock98"
+     "merry01"
+     "kreuger06"
+     "robinson06")))
 
